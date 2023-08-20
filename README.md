@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/yx155/web102_prework/blob/main/Animation.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif  
@@ -36,7 +36,6 @@ GIF created with ScreenToGif
 
 ## Notes
 
-Describe any challenges encountered while building the app.
 Overall, the process was pretty straightforward and given the clear directions in each step, I did not face any difficulties. I believe that this exercise was a good refresher of javascript and CSS. 
 ## License
 
